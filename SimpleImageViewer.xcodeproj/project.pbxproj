@@ -286,7 +286,7 @@
 				TargetAttributes = {
 					A02EE5D31EF1897D000EAB41 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = WQEYNHG5C2;
+						DevelopmentTeam = 3H8F6RA8DR;
 						ProvisioningStyle = Automatic;
 					};
 					A07E76D21ECC94A400B77D46 = {
@@ -412,7 +412,7 @@
 		A02EE5DD1EF1897D000EAB41 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = WQEYNHG5C2;
+				DEVELOPMENT_TEAM = 3H8F6RA8DR;
 				INFOPLIST_FILE = SimpleImageViewerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.afrogleap.SimpleImageViewerTests;
@@ -424,7 +424,7 @@
 		A02EE5DE1EF1897D000EAB41 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = WQEYNHG5C2;
+				DEVELOPMENT_TEAM = 3H8F6RA8DR;
 				INFOPLIST_FILE = SimpleImageViewerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.afrogleap.SimpleImageViewerTests;
