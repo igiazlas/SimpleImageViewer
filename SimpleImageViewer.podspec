@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.source = { :git => "https://github.com/aFrogleap/SimpleImageViewer.git", :tag => s.version.to_s }
   s.source_files = "ImageViewer/**/*.{swift}"
   s.resources = ["ImageViewer/**/*.{xib}", "ImageViewer/**/*.{xcassets}"]
-  s.swift_version = '5'
+  s.swift_version = '5.0'
 
 end
